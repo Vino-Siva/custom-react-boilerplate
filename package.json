@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vinoth Subramanian",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vino-Siva/custom-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vino-Siva/custom-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Vino-Siva/custom-react-boilerplate#readme"
 }
